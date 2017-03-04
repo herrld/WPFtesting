@@ -1,0 +1,10 @@
+C:\Users\baino\Documents\GitHub\WpfTestApp\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\baino\Documents\GitHub\WpfTestApp\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\baino\Documents\GitHub\WpfTestApp\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\baino\Documents\GitHub\WpfTestApp\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\baino\Documents\GitHub\WpfTestApp\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\ViewModels\obj\Debug\ViewModels.pdb
