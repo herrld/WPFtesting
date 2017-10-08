@@ -26,3 +26,12 @@ C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\obj\Debug\MainW
 C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\obj\Debug\WpfTestApp.g.resources
 C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\obj\Debug\WpfTestApp.Properties.Resources.resources
 C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\obj\Debug\WpfTestApp.csproj.GenerateResource.Cache
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\baino\Documents\GitHub\WPFtesting\WpfTestApp\WpfTestApp\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
